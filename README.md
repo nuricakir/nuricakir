@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**nuricakir/nuricakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+I'm interested in the Flutter development and React development.
+I'm interested in Data Science and Machine Learning with Python.
+I know Numpy,Pandas,Seaborn,Matplotlib,Firebase,Provider,BLoC,Widget Tree...
+Javascript-React
 
-Here are some ideas to get you started:
+🌐 Socials:
+Instagram LinkedIn Twitter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Dart JavaScript HTML5 CSS3 Python Firebase Django Flask MySQL SQLite NumPy Pandas
+
+📊 GitHub Stats:
+
+
