@@ -21,3 +21,6 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/[nuricakir])
+
+[![discord](./img/socials/discord.svg)](discord)
+&nbsp;&nbsp;
