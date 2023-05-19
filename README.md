@@ -17,4 +17,9 @@
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nuricakir)
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2SMT82PfczJOdVyr0_XJ8g)
 
-
+[![](https://visitcount.itsvg.in/api?id=nuricakir&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
+<!--
+<p align="right">
+	<img alt="Nuri's stars" src="https://img.shields.io/github/stars/nuricakir" />
+</p>
+-->
