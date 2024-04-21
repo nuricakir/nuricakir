@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuricakir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">30NitesOfCode: [Check out my progress!](https://www.codedex.io/@nuricakir/30-nites-of-code)  </h2>
+<h2 align="left">30NitesOfCode:<a href="https://www.codedex.io/@nuricakir/30-nites-of-code"> Check out my progress!</a> </h2>
   
   ![@nuricakir #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nuricakir)
   
