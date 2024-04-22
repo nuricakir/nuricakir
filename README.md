@@ -7,7 +7,7 @@
 
 <h2 align="left">30NitesOfCode:<a href="https://www.codedex.io/@nuricakir/30-nites-of-code"> Check out my progress!</a> </h2>
   
-  ![@nuricakir #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nuricakir)
+
   
 
 <h2 align="left">🧠 Languages and Tools:</h2>
