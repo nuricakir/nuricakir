@@ -1,5 +1,5 @@
 
-<h1 align="left">💫 Hi , I'm Nuri ÇAKIR 💫</h2>
+<h1 align="left"> Hi , I'm Nuri ÇAKIR 💫</h2>
 
 ![nuricakir's github stats](https://github-readme-stats.vercel.app/api?username=nuricakir&show_icons=true&theme=tokyonight);
 
