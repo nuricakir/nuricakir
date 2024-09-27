@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hi , I'm Nuri ÇAKIR 💫</h2>
+<h1 align="left"> Hi , I'm Nuri ÇAKIR 👨🏻‍💻</h2>
 
 
 ## 🌐 Socials:
